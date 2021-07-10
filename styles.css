@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+}
+
+h1{
+    color: rgb(104, 104, 104);
+    font-family: 'Courier New', Courier, monospace;
+    position: relative;
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom: 0px;
+    letter-spacing: 1px;
+    font-size: 50px;
+}
+
+body{
+    background: rgb(17, 17, 17);
+    text-align: center;
+    font-size: 1.3em;
+}
+
+#container{
+    background-color: rgb(27, 27, 27);
+    width: 320px;
+    height: 400px;
+    margin: 50px auto 0 auto;
+    position: relative;
+    border-radius: 20px;
+    padding: 50px 30px 10px 30px;
+}
+
+div button{
+    width: 43px;
+    height: 43px;
+    display: block;
+    margin: 0 0px 7px 2px;
+    text-align: center;
+}
+
+.igual{
+    width: 93px;
+    height: 43px;
+}
+
+input {
+    padding-right: 20px;
+    height: 50px;
+    width: 260px;
+    border-radius: 100px;
+    margin: 0 0px 50px 0;
+    text-align: right;
+    color: rgb(27, 27, 27);
+}
+
+::placeholder{
+    color: rgb(46, 46, 46);
+}
+
+footer{
+    margin: 120px auto;
+    text-align: center;
+}
+span{
+    color: rgb(80, 80, 80);
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+    display: block;
+}
+.observacao2{
+    margin-bottom: 3%;
+}
